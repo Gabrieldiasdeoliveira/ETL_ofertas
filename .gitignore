@@ -1,0 +1,13 @@
+# Ignorar pastas e arquivos desnecessários
+
+# Cache do Python
+__pycache__/
+
+# Arquivos Excel
+*.xlsx
+
+# Arquivo do Power BI
+*.pbix
+
+# Notebooks que não devem ser versionados
+previsao.ipynb
