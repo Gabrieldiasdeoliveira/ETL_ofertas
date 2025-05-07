@@ -9,5 +9,4 @@ __pycache__/
 # Arquivo do Power BI
 *.pbix
 
-# Notebooks que não devem ser versionados
-previsao.ipynb
+*.previsao
