@@ -12,7 +12,10 @@ __pycache__/
 *.previsao
 
 # Ignorar arquivos de credenciais
-iavendas-819648a9737a.json
+*.json
 upload_planilha.py
-previsao.ipynb
-Projecao_vendas.ipynb
+*.py
+
+
+# Arquivos de log
+*.log
