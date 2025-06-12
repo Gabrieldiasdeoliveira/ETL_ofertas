@@ -13,9 +13,7 @@ __pycache__/
 
 # Ignorar arquivos de credenciais
 *.json
-upload_planilha.py
 *.py
-
 
 # Arquivos de log
 *.log
